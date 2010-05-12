@@ -2,10 +2,10 @@
 
 The dataset consists of all posts in Stack Overflow with the tag 'nosql'.  It has been selected and re-formatted into four files called
 
-*posts
-*answers
-*comments
-*users
+* posts
+* answers
+* comments
+* users
 
 in either JSON or XML format.
 
@@ -13,11 +13,10 @@ This data is CC licensed but if you want to use it for anything else please note
 
 Posts can be viewed in their origin form with this URL format:   http://stackoverflow.com/questions/2794736   
 
-Each post may have zero or many answers.
-Each post and each answer may have zero or many comments.
-Each post, answer, and comment has a user ID that may be looked up to find the user's display name.
-
-Text data is HTML-escaped.
+* Each post may have zero or many answers.
+* Each post and each answer may have zero or many comments.
+* Each post, answer, and comment has a user ID that may be looked up to find the user's display name.
+* Text data is HTML-escaped.
 
 #Data Load Scripts#
 

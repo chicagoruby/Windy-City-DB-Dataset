@@ -2,7 +2,7 @@
 
 We'd like to provide access to a good selection of NoSQL databases in the conference lab, all with the same dataset so comparisons are easy.  
 
-An OSX server will be available to host them and we will provide instructions to attendees so they can work with unfamiliar databases s quickly as possible.
+An OSX server will be available to host them and we will provide instructions to attendees so they can work with unfamiliar databases as quickly as possible.
 
 We need your help to get this set up for as many databases as we can.
 
