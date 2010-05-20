@@ -1,4 +1,4 @@
-#Contributions to WindyCityDB Open Lab#
+#Contributions to [WindyCityDB](http://windycitydb.org) Open Lab#
 
 We'd like to provide access to a good selection of NoSQL databases in the conference lab, all with the same dataset so comparisons are easy.  
 
@@ -30,4 +30,4 @@ Before you start on the Required items, please check with Ginny Hendry ( contact
 
 Please e-mail your contributions to the same address.
 
-Thanks from all of us at WindyCityDB!
+Thanks from all of us at [WindyCityDB](http://windycitydb.org)!
