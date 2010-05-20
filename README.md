@@ -6,6 +6,10 @@ An OSX server will be available to host them and we will provide instructions to
 
 We need your help to get this set up for as many databases as we can.
 
+We have volunteers so far for:
+  * Redis
+  * MongoDB
+
 If you'd like to contribute on behalf of your favorite database, this is what we need:
 
 ###Required###
