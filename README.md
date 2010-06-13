@@ -7,8 +7,11 @@ An OSX server will be available to host them and we will provide instructions to
 We need your help to get this set up for as many databases as we can.
 
 We have volunteers so far for:
-  * Redis
-  * MongoDB
+* Redis
+* MongoDB
+* Mark Logic
+* CouchDB
+* Riak
 
 If you'd like to contribute on behalf of your favorite database, this is what we need:
 
@@ -24,7 +27,7 @@ If you'd like to contribute on behalf of your favorite database, this is what we
 
 ##Deadlines##
 
-Please make your contributions by June 12 to give us enough time to prepare for the conference is Saturday, June 26.  If you have all or part of it available earlier, please send it along so we can work out any issues as early as possible.
+Please make your contributions ASAP to give us enough time to prepare for the conference is Saturday, June 26.  As soon as you have all or part of it available, please send it along so we can work out any issues as early as possible.
 
 Before you start on the Required items, please check with Ginny Hendry ( contact [at] ghendry [dot] com ) to make sure we don't already have a volunteer for your database.
 
