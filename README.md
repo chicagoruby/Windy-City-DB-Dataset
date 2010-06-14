@@ -10,9 +10,10 @@ We have volunteers so far for:
 
 * Redis
 * MongoDB
-* Mark Logic
+* MarkLogic
 * CouchDB
 * Riak
+* OrientDB
 
 If you'd like to contribute on behalf of your favorite database, this is what we need:
 
