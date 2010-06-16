@@ -14,6 +14,7 @@ We have volunteers so far for:
 * CouchDB
 * Riak
 * OrientDB
+* Neo4j
 
 If you'd like to contribute on behalf of your favorite database, this is what we need:
 
